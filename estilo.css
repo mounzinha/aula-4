@@ -1,0 +1,31 @@
+body{ 
+
+    background-color: rgb(221, 236, 233);
+}
+#capa{
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(15, 15, 15);
+    color:aliceblue;
+    
+}
+h2{
+    color: rgb(9, 49, 49);
+    text-align: center;
+}
+p{
+    font-family: cursive;
+    font-size: x-large;
+      }
+#projeto{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
